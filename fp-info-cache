@@ -1,4 +1,4 @@
-19819791695530120
+19836240225968239
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +13,13 @@ audio belton reverb
 0
 7
 7
+BH1750FVI-TR
+XDCR_BH1750FVI-TR
+
+
+0
+6
+6
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -49335,6 +49342,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DS1339BU_T
+SOP65P490X110-8N
+
+
+0
+8
+8
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -52205,6 +52219,13 @@ heatsink
 0
 2
 1
+ISM330DHCXTR
+LGA-14_2.5X3X0.86_
+LGA-14(2.5x3x0.86)
+Integrated Circuit
+0
+14
+14
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -60304,6 +60325,13 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+PCA9548AD_118
+SOIC127P1032X265-24N
+
+
+0
+24
+24
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
@@ -74682,6 +74710,13 @@ Skyworks
 0
 7
 7
+RFM95W-915S2
+XCVR_RFM95W-915S2
+
+
+0
+16
+16
 RF_Antenna
 Abracon_APAES868R8060C16-T
 Abracon RHCP ceramic patch antenna 854-882Mhz, 5dBi
@@ -75641,6 +75676,13 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
+RP2040
+QFN40P700X700X90-57N
+
+
+0
+57
+57
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
@@ -77552,6 +77594,13 @@ rotary encoder
 0
 5
 4
+S8411-45R
+BAT_S8411-45R
+
+
+0
+2
+2
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -83712,6 +83761,13 @@ transformer flyback
 0
 10
 10
+VEML7700-TT
+XDCR_VEML7700-TT
+
+
+0
+4
+4
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
@@ -84482,3 +84538,17 @@ varistor SIOV
 0
 2
 2
+eec
+Abracon-ABS07-120-0-0-MFG
+
+
+0
+2
+2
+u.fl
+HRS_U.FL-R-SMT-1(10)
+
+
+0
+3
+3
