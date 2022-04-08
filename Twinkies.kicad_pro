@@ -422,6 +422,14 @@
     [
       "b93793c3-b062-4b43-92f8-c3e8a955dade",
       "PDU"
+    ],
+    [
+      "1b6a5ba2-ca0d-48e9-bdec-3b9998d5d68a",
+      "RP2040"
+    ],
+    [
+      "134ff296-d1ac-4a39-baca-73554e4eaeed",
+      "LTC4417"
     ]
   ],
   "text_variables": {}

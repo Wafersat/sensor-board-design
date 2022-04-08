@@ -1,0 +1,78 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,MANUFACTURER,MAXIMUM_PACKAGE_HEIGHT,STANDARD,LCSC,AVAILABILITY,MP,PACKAGE,PRICE,Arrow Part Number,Arrow Price/Stock,Manufacturer_Name,Manufacturer_Part_Number,Mouser Part Number,Mouser Price/Stock,PARTREV
+1,,S8411-45R,BT1,S8411-45R,BAT_S8411-45R,1,,Harwin,4.25mm,Manufacturer Recommendations,,,,,,,,,,,,
+2,"Unpolarized capacitor, small symbol",C_Small,C25 C26,12pF,C_0603_1608Metric,2,~,,,,,,,,,,,,,,,
+3,"Unpolarized capacitor, small symbol",C_Small,C18,470pF,C_0603_1608Metric,1,~,,,,,,,,,,,,,,,
+4,"Unpolarized capacitor, small symbol",C_Small,C12 C24,1nF,C_0603_1608Metric,2,~,,,,,,,,,,,,,,,
+5,"Unpolarized capacitor, small symbol",C_Small,C22,22nF,C_0603_1608Metric,1,~,,,,,,,,,,,,,,,
+6,"Unpolarized capacitor, small symbol",C_Small,C6 C20 C21 C27 C28 C29 C30 C31 C33 C34,100nF,C_0603_1608Metric,10,~,,,,,,,,,,,,,,,
+7,"Unpolarized capacitor, small symbol",C_Small,C23,0.47uF,C_0603_1608Metric,1,~,,,,,,,,,,,,,,,
+8,"Unpolarized capacitor, small symbol",C_Small,C1 C2 C3 C4 C5 C7 C8 C9 C15 C32 C35,1uF,C_0603_1608Metric,11,~,,,,,,,,,,,,,,,
+9,"Unpolarized capacitor, small symbol",C_Small,C19,4.7uF,C_0603_1608Metric,1,~,,,,,,,,,,,,,,,
+10,"Unpolarized capacitor, small symbol",C_Small,C11 C13 C16 C17,10uF,C_0603_1608Metric,4,~,,,,,,,,,,,,,,,
+11,"Unpolarized capacitor, small symbol",C_Small,C10 C14,22uF,C_0603_1608Metric,2,~,,,,,,,,,,,,,,,
+12,Schottky diode,D_Schottky,D2,D_Schottky,D_0603_1608Metric,1,~,,,,,,,,,,,,,,,
+13,Light emitting diode,LED,D1,LED,LED_0603_1608Metric,1,~,,,,,,,,,,,,,,,
+14,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x08,J5,Arducam,PinHeader_1x08_P2.54mm_Vertical,1,~,,,,,,,,,,,,,,,
+15,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x08,J1,Conn_01x08,PinHeader_1x08_P2.00mm_Vertical,1,~,,,,,,,,,,,,,,,
+16,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,J9,Conn_Batt,JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal,1,~,,,,C47647,,,,,,,,,,,
+17,Micro SD Card Socket,Micro_SD_Card,J4,DM3AT-SF-PEJM5 ,HRS_DM3AT-SF-PEJM5,1,http://katalog.we-online.de/em/datasheet/693072010801.pdf,,,,,,,,,,,,,,,
+18,,U.FL-R-SMT-1(10),J3,GPS u.fl,HRS_U.FL-R-SMT-1(10),1,,Hirose,,Manufacturer Recommendation,,Good,U.FL-R-SMT-1_10_,None,0.71 USD,,,,,,,
+19,DC Barrel Jack,Barrel_Jack,J6 J7,PV_Jack,BarrelJack_Horizontal,2,~,,,,,,,,,,,,,,,
+20,,U.FL-R-SMT-1(10),J2,Radio u.fl,HRS_U.FL-R-SMT-1(10),1,,Hirose,,Manufacturer Recommendation,,Good,U.FL-R-SMT-1_10_,None,0.71 USD,,,,,,,
+21,USB 2.0-only Type-C Receptacle connector,USB_C_Receptacle_USB2.0,J8,USB_C_Receptacle_USB2.0,USB_C_Receptacle_XKB_U262-16XN-4BVC11,1,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,,,,C319148,,,,,,,,,,,
+22,Inductor,L,L1,10uH,L_0603_1608Metric,1,~,,,,,,,,,,,,,,,
+23,"4.2A Id, 20V Vds, N-Channel MOSFET, SOT-23",DMG3414U,Q2 Q3,DMG3414U,SOT-23,2,http://www.diodes.com/assets/Datasheets/ds31739.pdf,,,,,,,,,,,,,,,
+24,"P-MOSFET transistor, gate/drain/source",Q_PMOS_GDS,Q4 Q5 Q6 Q7 Q8 Q9,Q_PMOS_GDS,DIP-4_W7.62mm,6,~,,,,,,,,,,,,,,,
+25,"NPN transistor, base/collector/emitter",Q_NPN_BCE,Q1,UMT3904T106,SOT65P210X100-3N,1,~,,,,,,,,,,,,,,,
+26,"Resistor, small symbol",R_Small,R24,10mR,R_0603_1608Metric,1,~,,,,,,,,,,,,,,,
+27,"Resistor, small symbol",R_Small,R14 R21,0R1,R_0603_1608Metric,2,~,,,,,,,,,,,,,,,
+28,Resistor,R,R22,1R,R_0603_1608Metric,1,~,,,,,,,,,,,,,,,
+29,"Resistor, small symbol",R_Small,R26,10R,R_0603_1608Metric,1,~,,,,,,,,,,,,,,,
+30,"Resistor, small symbol",R_Small,R33 R34,27R,R_0603_1608Metric,2,~,,,,,,,,,,,,,,,
+31,"Resistor, small symbol",R_Small,R27,100R,R_0603_1608Metric,1,~,,,,,,,,,,,,,,,
+32,Resistor,R,R4 R5,470,R_0603_1608Metric,2,~,,,,,,,,,,,,,,,
+33,Resistor,R,R7 R17 R18 R28 R29 R36,1k,R_0603_1608Metric,6,~,,,,,,,,,,,,,,,
+34,Resistor,R,R12 R13 R23 R25 R30 R31,4.7k,R_0603_1608Metric,6,~,,,,,,,,,,,,,,,
+35,"Resistor, small symbol",R_Small,R15 R16,5.1K,R_0603_1608Metric,2,~,,,,,,,,,,,,,,,
+36,Resistor,R,R1 R2 R3 R6 R8 R9 R10 R11 R32 R35 R37,10k,R_0603_1608Metric,11,~,,,,,,,,,,,,,,,
+37,"Resistor, small symbol",R_Small,R20,100k,R_0603_1608Metric,1,~,,,,,,,,,,,,,,,
+38,"Resistor, small symbol",R_Small,R19,220k,R_0603_1608Metric,1,~,,,,,,,,,,,,,,,
+39,"Resistor, small symbol",R_Small,R39,383k,R_0603_1608Metric,1,~,,,,,,,,,,,,,,,
+40,"Resistor, small symbol",R_Small,R40,825k,R_0603_1608Metric,1,~,,,,,,,,,,,,,,,
+41,"Resistor, small symbol",R_Small,R38,3.74M,R_0603_1608Metric,1,~,,,,,,,,,,,,,,,
+42,"Push button switch, generic, two pins",SW_Push,SW1,RESET,SW_Push_SPST_NO_Alps_SKRK,1,~,,,,,,,,,,,,,,,
+43,Single Pole Single Throw (SPST) switch,SW_SPST,SW3,SW_BOOTSEL,SW_SPST_B3U-1000P,1,~,,,,,,,,,,,,,,,
+44,Single Pole Single Throw (SPST) switch,SW_SPST,SW2,SW_RESET,SW_SPST_B3U-1000P,1,~,,,,,,,,,,,,,,,
+45,"1A 20V Fixed LDO Linear Regulator, 3.3V, SOT-89/SOT-223/TO-220/TO-252/TO-263",AZ1117-3.3,U12,AZ1117-3.3,SOT-223,1,https://www.diodes.com/assets/Datasheets/AZ1117.pdf,,,,,,,,,,,,,,,
+46,"1A 20V Fixed LDO Linear Regulator, 3.3V, SOT-89/SOT-223/TO-220/TO-252/TO-263",AZ1117-3.3,U10,AZ1117H-5.0TRG1,SOT-223,1,https://www.diodes.com/assets/Datasheets/AZ1117.pdf,,,,,,,,,,,,,,,
+47,"3-in-1 sensor, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8",BME280,U9,BME280,Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering,1,https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280-DS002.pdf,,,,,,,,,,,,,,,
+48,IMUs - Inertial Measurement Units VFLGA2.5X3X.86 14L P.5 L.475X.25,ISM330DHCXTR,U6,ISM330DHCXTR,LGA-14_2.5X3X0.86_,1,https://www.st.com/resource/en/datasheet/ism330dhcx.pdf,,,,,,,,,ISM330DHCXTR,https://www.arrow.com/en/products/ism330dhcxtr/stmicroelectronics?region=nac,STMicroelectronics,ISM330DHCXTR,511-ISM330DHCXTR,https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ISM330DHCXTR?qs=%252B6g0mu59x7Jv2Xps2dM6Xw%3D%3D,
+49,"Temperature Voltage and Current Monitor, I2C Interface, MSOP-10",LTC2990,U13,LTC2990,MSOP-10_3x3mm_P0.5mm,1,https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2990.pdf,,,,,,,,,,,,,,,
+50,"Prioritized PowerPath Controller, Selects Highest Priority Supply from Three Inputs, –40°C to 85°C, QFN",LTC4417IUF,U17,LTC4417IUF,QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm,1,https://www.analog.com/media/en/technical-documentation/data-sheets/4417f.pdf,,,,,,,,,,,,,,,
+51,"GNSS Module MAX M8, VCC 2.7V to 3.6V",MAX-M8Q,U4,MAX-M8Q,ublox_MAX,1,https://www.u-blox.com/sites/default/files/MAX-M8-FW3_DataSheet_%28UBX-15031506%29.pdf,,,,,,,,,,,,,,,
+52,,MAX17330X22+,U14,MAX17330X22+,MAX17330X22&plus_,1,,,,,,,,,,,,,,,,
+53,"Low power long range transceiver module, SPI and parallel interface, 915 MHz, spreading factor 6 to12, bandwith 7.8 to 500kHz, -111 to -148 dBm, SMD-16, DIP-16",RFM95W-915S2,U2,RFM95W,XCVR_RFM95W-915S2,1,https://www.hoperf.com/data/upload/portal/20181127/5bfcbea20e9ef.pdf,,,,,,,,,,,,,,,
+54,,RP2040,U15,RP2040,QFN40P700X700X90-57N,1,https://datasheets.raspberrypi.org/rp2040/rp2040_datasheet.pdf,,,,,,,,,,,,,,,
+55,"Realtime Clock/Calendar I2C Interface, Low Power, 1.2 V to 5.5 V, MicroCrystal C3",RV-8523-C3,U3,RV-8523-C3,RTC_SMD_MicroCrystal_C3_2.5x3.7mm,1,https://www.microcrystal.com/fileadmin/Media/Products/RTC/Datasheet/RV-8523-C3.pdf,,,,,,,,,,,,,,,
+56,,SPV1040T,U11,SPV1040T,SOP65P640X120-8N,1,,ST Microelectronics,,IPC7351B,,,,,,,,,,,,7
+57,"Low power 3D magnetic sensor, I2C interface, SOT-23-6",TLV493D,U8,TLV493D,SOT-23-6,1,http://www.infineon.com/dgdl/Infineon-TLV493D-A1B6-DS-v01_00-EN.pdf?fileId=5546d462525dbac40152a6b85c760e80,,,,,,,,,,,,,,,
+58,,TPS22902BYFPR,U1 U5,TPS22902BYFPR,TPS22902BYFPR,2,,,,,,,,,,,,,,,,
+59,,VEML7700-TT,U7,VEML7700-TT,XDCR_VEML7700-TT,1,,Vishay,,Manufacturer Recommendation,,,,,,,,,,,,1.3
+60,,W25Q64JV,U16,W25Q64JV,WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm,1,,,,,,,,,,,,,,,,
+61,"Four pin crystal, GND on pins 2 and 4, small symbol",Crystal_GND24_Small,Y1,XYDBPCNANF-12MHZ,Crystal_SMD_2520-4Pin_2.5x2.0mm,1,~,,,,C521567,,,,,,,,,,,
+
+
+
+
+
+Component Groups:,61
+Component Count:,118
+Fitted Components:,118
+Number of PCBs:,1
+Total components:,118
+Schematic Version:,0.1
+Schematic Date:,2022-03-04
+PCB Variant:,default
+BoM Date:,"Wednesday, March 30, 2022 at 10:29:13 AM"
+Schematic Source:,Twinkies.kicad_sch
+KiCad Version:,Eeschema (6.0.2-0)
